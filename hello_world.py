@@ -2,7 +2,7 @@
 
 
 def main():
-    print('Hello, world.')
+    print('Hello, world. I want to get off!')
 
 
 main()
