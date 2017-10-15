@@ -2,7 +2,11 @@
 
 
 def main():
-    print('Hello, world. I want to get off!')
+    print('Hello, world. I DON\'T want to get off!')
+    print('I want to keep this line.')
+
+    print('But, maybe you do?')
+    print('I want to keep this line.')
 
 
 main()
